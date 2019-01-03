@@ -1,0 +1,21 @@
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+# Eclipse project files
+.project
+.classpath
+.settings
+.DS_Store
+
+# Other project gen files
+target
+temp
+bower_components
+.metadata
+CATALINA_HOME_IS_UNDEFINED/logs
+logs
+psms-logs
