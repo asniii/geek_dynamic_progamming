@@ -37,9 +37,6 @@ public class Solution {
     }
 
 
-
-
-
     public static void main(String args[]){
         int nr = 6, dr = 14;
         System.out.print("Egyptian Fraction Representation of "
